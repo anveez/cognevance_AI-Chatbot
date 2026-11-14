@@ -1,0 +1,6 @@
+Test accuracy: 0.890
+Macro F1-score: 0.888
+Weighted F1-score: 0.888
+CV scores: [0.838 0.862 0.888 0.825 0.812]
+CV mean: 0.845
+CV standard deviation: 0.027
